@@ -1,3 +1,4 @@
+
 /* 
 Activité : gestion des contacts
 */
@@ -15,7 +16,8 @@ class Contact {
 
 let tabConctacts = [
     new Contact("Lévisse", "Carole"),
-    new Contact("Nelsonne", "Mélodie")
+    new Contact("Nelsonne", "Mélodie"),
+    new Contact("Open", "Classrooms")
 ]
 
 function afficherOptions(){
